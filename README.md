@@ -26,10 +26,6 @@ To get started with the Match Reservation System, follow these steps:
 
    ```bash
    git clone https://github.com/ADAMFUTUR/reservation-match.git)https://github.com/ADAMFUTUR/reservation-match.git
-
-
-   
-   ```bash
    gcc -o match_reservation_system foot.c
 
 ## congratulation
