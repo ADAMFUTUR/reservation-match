@@ -30,5 +30,5 @@ To get started with the Match Reservation System, follow these steps:
    ```bash
    gcc -o match_reservation_system foot.c
 
-   ## congratulation
+## congratulation
    you can try the program now
