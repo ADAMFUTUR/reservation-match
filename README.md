@@ -5,10 +5,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Compiling the Program](#compiling-the-program)
-- [Contributing](#contributing)
-- [License](#license)
+- [congratulation](#congratulation)
 
 ## Introduction
 
@@ -29,5 +26,9 @@ To get started with the Match Reservation System, follow these steps:
 
    ```bash
    git clone https://github.com/ADAMFUTUR/reservation-match.git)https://github.com/ADAMFUTUR/reservation-match.git
+   
    ```bash
    gcc -o match_reservation_system foot.c
+
+   ## congratulation
+   you can try the program now
